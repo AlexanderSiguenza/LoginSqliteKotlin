@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LoginSqliteKotlin</string>
+    <string name="hint_username">Nombre de usuario</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="register_link">¿No tienes una cuenta? Regístrate aquí</string>
+
+    <!-- Mensajes de Toast -->
+    <string name="login_successful">Inicio de sesión exitoso</string>
+    <string name="login_failed">Credenciales incorrectas</string>
+    <string name="nombre_de_usuario">Nombre de usuario</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="iniciar_sesi_n">Iniciar sesión</string>
+    <string name="no_tienes_una_cuenta">¿No tienes una cuenta?</string>
+    <string name="reg_strate_aqu">Regístrate aquí</string>
+</resources>
